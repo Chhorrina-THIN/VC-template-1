@@ -1,5 +1,5 @@
 
 <div class="container">
-    <h1>Welcome to PHP</h1>
+    <h1 class="text-white">Welcome to PHP</h1>
 </div>
 
